@@ -1,0 +1,6 @@
+framework module Pods_SwiftCalendarTests {
+  umbrella header "Pods-SwiftCalendarTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

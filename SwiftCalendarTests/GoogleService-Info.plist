@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>963579076068-tk0icj2fpof848bq5d3j8k7fh3litvd9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.963579076068-tk0icj2fpof848bq5d3j8k7fh3litvd9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbV2x9nS6M3p3UZYvEaza4PTRZwzuLEH0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>963579076068</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hyperactive.swiftCalendar</string>
+	<key>PROJECT_ID</key>
+	<string>swiftcalculator-3c36c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftcalculator-3c36c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:963579076068:ios:a98b86c9914e47b21d7bf1</string>
+	<key>DATABASE_URL</key>
+	<string>https://swiftcalculator-3c36c.firebaseio.com</string>
+</dict>
+</plist>
